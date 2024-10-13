@@ -1,0 +1,64 @@
+      SIMULATION FOR A QUEUEING SYSTEM 
+
+THE TIME STEP            =  1 
+THE TIME LIMIT           =   50 
+THE ARRIVAL PROBABILITY  =  0.33 
+THE POISSON MEAN         =  5 
+THE SEED                 =  154294 
+
+   TIME    ARRIVAL    QUEUE     TPUMP
+     1        1         0         7 
+     2        0         0         6 
+     3        1         1         5 
+     4        0         1         4 
+     5        0         1         3 
+     6        0         1         2 
+     7        0         1         1 
+     8        0         0         4 
+     9        1         1         3 
+    10        0         1         2 
+    11        1         2         1 
+    12        0         1         6 
+    13        1         2         5 
+    14        0         2         4 
+    15        0         2         3 
+    16        1         3         2 
+    17        0         3         1 
+    18        0         2         5 
+    19        0         2         4 
+    20        1         3         3 
+    21        0         3         2 
+    22        1         4         1 
+    23        1         4         5 
+    24        1         5         4 
+    25        0         5         3 
+    26        0         5         2 
+    27        0         5         1 
+    28        0         4         5 
+    29        1         5         4 
+    30        0         5         3 
+    31        1         6         2 
+    32        0         6         1 
+    33        0         5         5 
+    34        1         6         4 
+    35        0         6         3 
+    36        0         6         2 
+    37        0         6         1 
+    38        1         6         3 
+    39        0         6         2 
+    40        1         7         1 
+    41        0         6         4 
+    42        1         7         3 
+    43        0         7         2 
+    44        1         8         1 
+    45        1         8         3 
+    46        0         8         2 
+    47        0         8         1 
+    48        1         8         2 
+    49        1         9         1 
+    50        0         8         7 
+  THE SIMULATED TIME =    50.0 
+  THE TOTAL ARRIVALS =   20 
+  THE TOTAL QUEUE =  211 
+  MEAN QUEUE LENGTH  =   4.22 
+  MEAN WAITING TIME  =   10.5500002 
